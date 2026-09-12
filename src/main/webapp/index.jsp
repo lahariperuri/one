@@ -1356,7 +1356,7 @@ footer a:hover {
 <a href="#" class="logo">
 
 <div class="logo-icon">
-<i class="fas fa-bag-shopping"></i>
+<em class="fas fa-bag-shopping"></em>
 </div>
 
 Pink<span>Cart</span>
@@ -1398,7 +1398,7 @@ Pink<span>Cart</span>
 
 <div class="search-box">
 
-<i class="fas fa-search"></i>
+<em class="fas fa-search"></em>
 
 <input
 type="text"
